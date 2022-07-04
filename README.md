@@ -1,2 +1,2 @@
-# cp-contest-code
+# dsa sheet
 This is the repository for solution in various codeforces contest
